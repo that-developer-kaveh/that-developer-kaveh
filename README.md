@@ -5,7 +5,7 @@ I'm the co-founder and CTO of **[latchkey](https://latchkey.dev)**, a venture-ba
 latchkey makes GitHub Actions fix themselves. It finds where your pipeline is burning money,
 what security regressions just landed, and which steps are slow or flaky, then opens the PR.
 
-Before this I worked at AWS and Microsoft Azure for a couple of years, building secure cloud
+I've worked at Microsoft Azure and AWS for a couple of years, building secure cloud
 infrastructure: landing zones, compliance platforms, Kubernetes.
 
 Some of what we've built is open source:
@@ -16,11 +16,6 @@ Some of what we've built is open source:
 | [**cache-action**](https://github.com/latchkey-dev/cache-action) | high-performance streaming cache |
 | [**docker-cache-action**](https://github.com/latchkey-dev/docker-cache-action) | Docker builds with automatic ECR layer caching |
 | [**runner-benchmarks**](https://github.com/latchkey-dev/runner-benchmarks) | the numbers, published |
-
-I also built **[WordDrop](https://apps.apple.com/us/app/worddrop-improve-vocabulary/id6757763797)**,
-a small vocabulary puzzle on the App Store, and **[kaveha.com](https://kaveha.com)**
-([source](https://github.com/kaveh-personal-sites/personal-website)), which ships no JS by
-default and deploys itself on push.
 
 <sub>11x AWS certified · 4x Azure certified · MSCS @ Georgia Tech ·
 [latchkey.dev](https://latchkey.dev) · [linkedin](https://www.linkedin.com/in/kvalemi/) ·
